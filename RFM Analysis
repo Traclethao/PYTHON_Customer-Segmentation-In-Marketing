@@ -1,0 +1,5 @@
+# 1. Prepare Dataset suitable for RFM model 
+# 1.1. Import data - Excel file
+# Install dataprep to create report for each column
+!pip install dataprep
+from dataprep.eda import create_report
