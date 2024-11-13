@@ -23,13 +23,23 @@ RFM (Recency – Frequency – Monetary): is a part of Marketing Analysis and is
 
 - Distribution of Recency Histogram
 
+  ![Recency](https://github.com/user-attachments/assets/c8012ebc-4081-4a7e-919c-ae50ab3da6bf)
+
 - Distribution of Frequency Histogram
+
+  ![Frequency](https://github.com/user-attachments/assets/747817a9-5250-4386-8719-0dcbc5354d24)
 
 - Distribution of Monetary Histogram
 
+  ![Monetary](https://github.com/user-attachments/assets/436c9284-49f0-463b-88e5-6f32338d4d30)
+
 - RFM Segments of Customer Count Treemap
 
+  ![Count](https://github.com/user-attachments/assets/a017982a-aa7b-4a98-98cf-98043219c743)
+
 - RFM Segments of Sales Treemap
+
+  ![Sales](https://github.com/user-attachments/assets/8babcd5d-5c4f-4731-8e59-951e70e90002)
 
 ## **III. Insights**
 
@@ -43,3 +53,6 @@ RFM (Recency – Frequency – Monetary): is a part of Marketing Analysis and is
 - Find ways to convert Potential Loyalist, Need Attention, At Risk, Promising groups into Champions and Loyal customer groups.
 
 ## **IV. Recommendations**
+
+![Recommendation](https://github.com/user-attachments/assets/2f28dc54-0288-4d14-8284-c5b255a63f67)
+
