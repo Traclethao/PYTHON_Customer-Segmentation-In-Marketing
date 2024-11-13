@@ -21,18 +21,20 @@ RFM (Recency – Frequency – Monetary): is a part of Marketing Analysis and is
 
 ## **II. Data Visualization with Python**
 
-- Distribution of Recency Histogram
+### 1. Histogram chart 
+- Distribution of Recency and Distribution of Recency with R_score>=3 
 
   ![Recency](https://github.com/user-attachments/assets/c8012ebc-4081-4a7e-919c-ae50ab3da6bf)
 
-- Distribution of Frequency Histogram
+- Distribution of Frequency and Distribution of Frequency with F_score<=4 
 
   ![Frequency](https://github.com/user-attachments/assets/747817a9-5250-4386-8719-0dcbc5354d24)
 
-- Distribution of Monetary Histogram
+- Distribution of Monetary Histogram and Distribution of Monetary with M_score<=4 
 
   ![Monetary](https://github.com/user-attachments/assets/436c9284-49f0-463b-88e5-6f32338d4d30)
 
+### 2. Treemap chart 
 - RFM Segments of Customer Count Treemap
 
   ![Count](https://github.com/user-attachments/assets/a017982a-aa7b-4a98-98cf-98043219c743)
