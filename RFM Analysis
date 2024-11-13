@@ -3,3 +3,15 @@
 # Install dataprep to create report for each column
 !pip install dataprep
 from dataprep.eda import create_report
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[38]:
+
+
+import pandas as pd
+import numpy as np
+from datetime import datetime, timedelta
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.express as px
