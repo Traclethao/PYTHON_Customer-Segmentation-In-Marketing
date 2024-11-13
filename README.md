@@ -33,11 +33,11 @@ However, the Marketing department has not yet been able to group each customer t
 
 ## **III. Insights**
 
-1. Histogram Chart: In general, all 3 variables have the same distribution pattern, the most distribution is on the left..
+### 1. Histogram Chart: In general, all 3 variables have the same distribution pattern, the most distribution is on the left.
 - Recency: cut with the condition <= 92 days (R_score is 3,4,5) has the highest distribution for a clearer view. In the range of 21-40 recent days, the highest distribution proves that the business is currently operating very well.
 - Frequency: cut with the condition <= 120 purchases (F_score is 1,2,3,4). For the customer group with F_score = 5, which is over 120 purchases (accounting for 1/5 of the total number of customers), the business should have its own customer appreciation program. In the cut chart, it can be seen that the number of customers who purchase from 1-20 times is the highest.
 - Monetary: cut with the condition <= 1957.32 USD (M_score is 1,2,3,4). For the group of customers with F_score=5 above 1957.32 USD (accounting for 1/5 of the total number of customers but bringing a lot of profit to the business), these may be the agents, the business should have its own customer appreciation program.
-1. Treemap Chart:
+### 2. Treemap Chart:
 - Champions segment has about 18.42% of customers but brings in revenue up to 59.06%. => Need to maintain Champions customer group.
 - Besides, need to study Cannot Lost Them group to gain experience, do not lose more Champions and Loyal.
 - Find ways to convert Potential Loyalist, Need Attention, At Risk, Promising groups into Champions and Loyal customer groups.
