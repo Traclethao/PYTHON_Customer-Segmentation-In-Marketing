@@ -35,11 +35,11 @@ RFM (Recency – Frequency – Monetary): is a part of Marketing Analysis and is
   ![Monetary](https://github.com/user-attachments/assets/436c9284-49f0-463b-88e5-6f32338d4d30)
 
 ### 2. Treemap chart 
-- RFM Segments of Customer Count Treemap
+- RFM Segments of Customer Count 
 
   ![Count](https://github.com/user-attachments/assets/a017982a-aa7b-4a98-98cf-98043219c743)
 
-- RFM Segments of Sales Treemap
+- RFM Segments of Sales 
 
   ![Sales](https://github.com/user-attachments/assets/8babcd5d-5c4f-4731-8e59-951e70e90002)
 
