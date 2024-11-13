@@ -5,11 +5,11 @@
 
 RFM (Recency – Frequency – Monetary): is a part of Marketing Analysis and is used to analyze customer value to help businesses analyze each customer group they have. From there, there are special marketing or care campaigns.
 ### **2. About business**
-SuperStore Company is a global retail company, so the company has a lot of customers.
+- SuperStore Company is a global retail company, so the company has a lot of customers.
 
-On the occasion of Christmas and New Year, the Marketing department wants to run marketing campaigns to thank customers who have supported the company over the past time. As well as exploit customers with the potential to become loyal customers.
+- On the occasion of Christmas and New Year, the Marketing department wants to run marketing campaigns to thank customers who have supported the company over the past time. As well as exploit customers with the potential to become loyal customers.
 
-However, the Marketing department has not yet been able to group each customer this year because the data set is too large to be processed manually like previous years, so the Data Analysis Department should support the implementation of a segmentation problem for each customer to implement each marketing program suitable for each customer group.
+- However, the Marketing department has not yet been able to group each customer this year because the data set is too large to be processed manually like previous years, so the Data Analysis Department should support the implementation of a segmentation problem for each customer to implement each marketing program suitable for each customer group.
 ### **3. Approach** 
 
 - Prepare a data set suitable for the RFM model.
