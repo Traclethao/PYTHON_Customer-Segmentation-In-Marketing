@@ -50,8 +50,8 @@ RFM (Recency – Frequency – Monetary): is a part of Marketing Analysis and is
 - Frequency: cut with the condition <= 120 purchases (F_score is 1,2,3,4). For the customer group with F_score = 5, which is over 120 purchases (accounting for 1/5 of the total number of customers), the business should have its own customer appreciation program. In the cut chart, it can be seen that the number of customers who purchase from 1-20 times is the highest.
 - Monetary: cut with the condition <= 1957.32 USD (M_score is 1,2,3,4). For the group of customers with F_score=5 above 1957.32 USD (accounting for 1/5 of the total number of customers but bringing a lot of profit to the business), these may be the agents, the business should have its own customer appreciation program.
 ### 2. Treemap Chart:
-- Champions segment has about 18.42% of customers but brings in revenue up to 59.06%. => Need to maintain Champions customer group.
-- Besides, need to study Cannot Lost Them group to gain experience, do not lose more Champions and Loyal.
+- Champions segment has about 18.42% of customers but brings in revenue up to 59.06%. => Need to maintain a Champions customer group.
+- Besides, need to study the Cannot Lost Them group to gain experience, not lose more Champions and Loyal.
 - Find ways to convert Potential Loyalist, Need Attention, At Risk, Promising groups into Champions and Loyal customer groups.
 
 ## **IV. Recommendations**
