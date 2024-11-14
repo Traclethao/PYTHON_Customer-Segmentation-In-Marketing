@@ -56,5 +56,5 @@ RFM (Recency – Frequency – Monetary): is a part of Marketing Analysis and is
 
 ## **IV. Recommendations**
 
-![Recommendation](https://github.com/user-attachments/assets/2f28dc54-0288-4d14-8284-c5b255a63f67)
+
 
