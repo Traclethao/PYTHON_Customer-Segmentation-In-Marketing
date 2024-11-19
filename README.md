@@ -28,11 +28,13 @@
 
   => Cut with the condition <= 92 days (R_score is 3,4,5) has the highest distribution for a clearer view. In the range of 21-40 recent days, the highest distribution proves that the business is currently operating very well. 
 
+
 - **Distribution of Frequency and Distribution of Frequency with F_score<=4** 
 
   ![Frequency](https://github.com/user-attachments/assets/747817a9-5250-4386-8719-0dcbc5354d24)
 
 => Cut with the condition <= 120 purchases (F_score is 1,2,3,4). For the customer group with F_score = 5, which is over 120 purchases (accounting for 1/5 of the total number of customers), the business should have its own customer appreciation program. In the cut chart, it can be seen that the number of customers who purchase from 1-20 times is the highest.
+
 
 - **Distribution of Monetary Histogram and Distribution of Monetary with M_score<=4** 
 
