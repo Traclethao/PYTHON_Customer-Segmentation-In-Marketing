@@ -1,4 +1,4 @@
-# RFM Analysis
+# Customer Segmentation In Marketing 
 ## **I. Introduction**
 
 ### **1. About RFM Analysis**
