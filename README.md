@@ -43,11 +43,11 @@
   => Cut with the condition <= 1957.32 USD (M_score is 1,2,3,4). For the group of customers with F_score=5 above 1957.32 USD (accounting for 1/5 of the total number of customers but bringing a lot of profit to the business), these may be the agents, the business should have its own customer appreciation program.
 
 ### 2. Treemap chart 
-- RFM Segments of Customer Count 
+- **RFM Segments of Customer Count** 
 
   ![Count](https://github.com/user-attachments/assets/a017982a-aa7b-4a98-98cf-98043219c743)
 
-- RFM Segments of Sales 
+- **RFM Segments of Sales** 
 
   ![Sales](https://github.com/user-attachments/assets/8babcd5d-5c4f-4731-8e59-951e70e90002)
 
