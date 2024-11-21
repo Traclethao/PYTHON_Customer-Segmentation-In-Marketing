@@ -29,7 +29,7 @@
 - df table 
   + Check missing, dupplicate, incorrect data
   
-  ![Check](https://github.com/user-attachments/assets/8df1e55b-ef3e-431e-bd15-33055ab878e0)
+    ![Check](https://github.com/user-attachments/assets/8df1e55b-ef3e-431e-bd15-33055ab878e0)
   
   + Handle
 
