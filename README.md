@@ -15,8 +15,21 @@
 ## **II. EDA & RFM Model** 
 
 ### **1. EDA**
-- Import data from Excel file
+#### **1.1. Import data from Excel file**
 
+![Import data](https://github.com/user-attachments/assets/760d004f-3f76-4f18-b97b-09bb03363808)
+![Result 1 11](https://github.com/user-attachments/assets/03691798-2ccd-4eba-be33-6743a47556c5)
+![Result 1 12](https://github.com/user-attachments/assets/dd09484a-52e0-450b-b226-179eea4e14f4)
+
+#### **1.2. Check & Handle data**
+- Check Missing, Dupplicate, incorrect data
+  ![Check](https://github.com/user-attachments/assets/8df1e55b-ef3e-431e-bd15-33055ab878e0)
+- Handle 
+![handle](https://github.com/user-attachments/assets/cc751102-fe21-4d88-9bb2-561bfdb226f1)
+![Create report](https://github.com/user-attachments/assets/f5e82af9-2152-4db6-8140-c978352c8937)
+- Result
+![2 11](https://github.com/user-attachments/assets/30e4c623-8856-4870-9bfa-b784cba02a95)
+![result 2 12](https://github.com/user-attachments/assets/af04db3f-d868-463c-8c18-fee7bd2bc122)
 
 ### **2. Calculation the R, F, M scores of each customer**. 
 Note: The calculation date of the R index is December 31, 2011.
