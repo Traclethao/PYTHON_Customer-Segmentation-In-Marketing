@@ -17,13 +17,13 @@
 ### **1. EDA**
 #### **1.1. Import data from Excel file**
 - Code
-  
-![Import data](https://github.com/user-attachments/assets/760d004f-3f76-4f18-b97b-09bb03363808)
+
+  ![Import data](https://github.com/user-attachments/assets/760d004f-3f76-4f18-b97b-09bb03363808)
 
 - Result
-  
-![Result 1 11](https://github.com/user-attachments/assets/03691798-2ccd-4eba-be33-6743a47556c5)
-![Result 1 12](https://github.com/user-attachments/assets/dd09484a-52e0-450b-b226-179eea4e14f4)
+
+  ![Result 1 11](https://github.com/user-attachments/assets/03691798-2ccd-4eba-be33-6743a47556c5)
+  ![Result 1 12](https://github.com/user-attachments/assets/dd09484a-52e0-450b-b226-179eea4e14f4)
 
 #### **1.2. Check & Handle data**
 - df table 
@@ -32,23 +32,23 @@
   ![Check](https://github.com/user-attachments/assets/8df1e55b-ef3e-431e-bd15-33055ab878e0)
   
   + Handle
-  
-![handle](https://github.com/user-attachments/assets/cc751102-fe21-4d88-9bb2-561bfdb226f1)
-![Create report](https://github.com/user-attachments/assets/f5e82af9-2152-4db6-8140-c978352c8937)
+
+    ![handle](https://github.com/user-attachments/assets/cc751102-fe21-4d88-9bb2-561bfdb226f1)
+    ![Create report](https://github.com/user-attachments/assets/f5e82af9-2152-4db6-8140-c978352c8937)
 
   + Result
-  
-![2 11](https://github.com/user-attachments/assets/30e4c623-8856-4870-9bfa-b784cba02a95)
-![result 2 12](https://github.com/user-attachments/assets/af04db3f-d868-463c-8c18-fee7bd2bc122)
+
+    ![2 11](https://github.com/user-attachments/assets/30e4c623-8856-4870-9bfa-b784cba02a95)
+    ![result 2 12](https://github.com/user-attachments/assets/af04db3f-d868-463c-8c18-fee7bd2bc122)
 
 - Segmentation table
   + Code
 
-![Segment](https://github.com/user-attachments/assets/c37a5483-d8b7-4d06-baa5-db247e7c2ffb)
+    ![Segment](https://github.com/user-attachments/assets/c37a5483-d8b7-4d06-baa5-db247e7c2ffb)
 
   + Result
-
-![result segment](https://github.com/user-attachments/assets/153d643d-57b9-43bb-87a4-b59352f28e30)
+  
+    ![result segment](https://github.com/user-attachments/assets/153d643d-57b9-43bb-87a4-b59352f28e30)
 
  
   
