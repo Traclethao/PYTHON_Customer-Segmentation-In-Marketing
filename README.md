@@ -40,10 +40,11 @@
 - Segmentation table
   + Code
 
-
+![Segment](https://github.com/user-attachments/assets/c37a5483-d8b7-4d06-baa5-db247e7c2ffb)
 
   + Result
 
+![result segment](https://github.com/user-attachments/assets/153d643d-57b9-43bb-87a4-b59352f28e30)
 
  
   
