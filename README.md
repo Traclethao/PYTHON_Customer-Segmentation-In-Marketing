@@ -54,6 +54,9 @@
   
 ### **2. Calculation the R, F, M scores of each customer**. 
 Note: The calculation date of the R index is December 31, 2011.
+- Code
+
+- Result 
 
 ### **3. Use the quintile method of Statistics to scale R_score, F_score, M_score.**
 
