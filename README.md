@@ -16,8 +16,12 @@
 
 ### **1. EDA**
 #### **1.1. Import data from Excel file**
-
+- Code
+  
 ![Import data](https://github.com/user-attachments/assets/760d004f-3f76-4f18-b97b-09bb03363808)
+
+- Result
+  
 ![Result 1 11](https://github.com/user-attachments/assets/03691798-2ccd-4eba-be33-6743a47556c5)
 ![Result 1 12](https://github.com/user-attachments/assets/dd09484a-52e0-450b-b226-179eea4e14f4)
 
