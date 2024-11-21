@@ -56,7 +56,11 @@
 Note: The calculation date of the R index is December 31, 2011.
 - Code
 
-- Result 
+  ![2 code](https://github.com/user-attachments/assets/29a8f116-aeff-4eb7-a0b6-c3938670d8e4)
+
+- Result
+
+  ![2 result](https://github.com/user-attachments/assets/73b218c7-2a0b-4b3c-b89a-55876e30c536)
 
 ### **3. Use the quintile method of Statistics to scale R_score, F_score, M_score.**
 
