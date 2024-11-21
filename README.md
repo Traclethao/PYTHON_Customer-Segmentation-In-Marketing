@@ -63,7 +63,13 @@ Note: The calculation date of the R index is December 31, 2011.
   ![2 result](https://github.com/user-attachments/assets/73b218c7-2a0b-4b3c-b89a-55876e30c536)
 
 ### **3. Use the quintile method of Statistics to scale R_score, F_score, M_score.**
+- Code
 
+  ![3 code](https://github.com/user-attachments/assets/e81d3a29-cd6b-483b-81af-09d805c643de)
+
+- Result
+
+  ![3  result](https://github.com/user-attachments/assets/d6d8b7a4-04c8-478b-98c2-52c7074c51af)
 
 ### **4. Use Segmentation table to group each customer**
 
