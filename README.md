@@ -72,7 +72,13 @@ Note: The calculation date of the R index is December 31, 2011.
   ![3  result](https://github.com/user-attachments/assets/d6d8b7a4-04c8-478b-98c2-52c7074c51af)
 
 ### **4. Use Segmentation table to group each customer**
+- Code
 
+  ![4 code](https://github.com/user-attachments/assets/94099912-87d2-4c53-9e58-8886b0966132)
+
+- Result
+
+  ![4 result](https://github.com/user-attachments/assets/49e6bfb4-4ec1-435d-b243-83d99493751a)
 
 ## **III. Data Visualization & Insight**
 
