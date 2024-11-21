@@ -23,11 +23,16 @@
 
 #### **1.2. Check & Handle data**
 - Check Missing, Dupplicate, incorrect data
+  
   ![Check](https://github.com/user-attachments/assets/8df1e55b-ef3e-431e-bd15-33055ab878e0)
-- Handle 
+  
+- Handle
+  
 ![handle](https://github.com/user-attachments/assets/cc751102-fe21-4d88-9bb2-561bfdb226f1)
 ![Create report](https://github.com/user-attachments/assets/f5e82af9-2152-4db6-8140-c978352c8937)
+
 - Result
+  
 ![2 11](https://github.com/user-attachments/assets/30e4c623-8856-4870-9bfa-b784cba02a95)
 ![result 2 12](https://github.com/user-attachments/assets/af04db3f-d868-463c-8c18-fee7bd2bc122)
 
